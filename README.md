@@ -13,10 +13,10 @@ This repository contains basic **C++** program based on **Inheritance** as an im
 
 ## How to Run
 
-Compile<br>
- g++ code_1.cpp -o code_1<br>
-Run<br>
- ./code_1
+### Compile<br>
+     - g++ code_1.cpp -o code_1<br>
+### Run<br>
+     - ./code_1
 
  ## Author
  **Anisha Maharjan**
