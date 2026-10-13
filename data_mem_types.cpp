@@ -1,4 +1,5 @@
 // public private and protected
+// different properties in Inheritance
 
 #include<iostream>
 using namespace std;
