@@ -1,4 +1,5 @@
 // ACCESS SPECIFIERS
+// private, protected, public members and properties
 
 #include<iostream>
 using namespace std;
